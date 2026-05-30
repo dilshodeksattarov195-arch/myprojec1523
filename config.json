@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheperify",
+        "uuid": 1169664,
+        "checksum": "52n4b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
